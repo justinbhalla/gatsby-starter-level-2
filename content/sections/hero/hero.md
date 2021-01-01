@@ -1,10 +1,9 @@
 ---
-introduction: "hey it's me"
-tagline: 'Design. Code. Experiment'
+introduction: "AtomIO"
+tagline: 'Design. Build. Launch'
 cta_label: 'View Documentation'
-cta_link: 'https://github.com/Knochenmark/gatsby-starter-level-2/blob/master/README.md'
+cta_link: 'https://github.com/'
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-sed diam nonumy eirmod tempor invidunt ut labore
-et dolore magna aliquyam erat, sed diam voluptua.
+A team a driven designers and engineers ready to make anything possible.
+Start your project today with AtomIO!
